@@ -1,6 +1,6 @@
-# messiah
+# Messiah
 
-A role-playing game with LowPoly style graphics telling the life of Jesus. 
+A role-playing game with low-poly style graphics telling the life of Jesus. 
 The project was awarded in 2 competitions: 
 -I place in the Catechism Multimedia Application Festivals
 -II place in the National GEEK competition
@@ -15,3 +15,4 @@ Technologies used:
 * Trailer: https://youtu.be/imlXg_WZqHs
 * Game : in game.zip
 
+Project was made in 2020
